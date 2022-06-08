@@ -20,9 +20,7 @@ En curso:
 - NEXTJS 
 - MATERIAL UI 
 
-Proximamente:
-- NODE JS
-- MYSQL
+
 
 ## PROYECTOS 
 Estos son los proyectos que yo considero mas importante y que mas me desafiaron a mi al momento de crearlos:
